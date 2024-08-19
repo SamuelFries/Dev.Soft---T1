@@ -6,7 +6,7 @@ public class App {
         Carro ultilitario = new Carro("Ultilitario", TipoCombustivel.DIESEL,5,70);
         Carro suv = new Carro("SUV", TipoCombustivel.FLEX,8, 55);
         Carro SuvFlex = new SuvFlex("SuvFlex",TipoCombustivel.GASOLINA, 0, 0);
-
+        Carro Econo = new Econo("Econo", TipoCombustivel.GASOLINA, 20, 55);
 
         System.out.println("Tipos de veiculos:");
         System.out.println(basico);
@@ -22,5 +22,6 @@ public class App {
         basico.viaja(250);
         basico.viaja(150);
         System.out.println(basico);
+        System.out.println(Econo);
     }
 }
