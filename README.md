@@ -1,4 +1,4 @@
-Grupo: Caetano Marasca, Gabriel ottonelli, Samuel Fries, Guilherme Tavares, Lucas Volksweis.
+Grupo: Caetano Marasca, Gabriel Ottonelli, Samuel Fries, Guilherme Tavares, Lucas Volksweis.
 
 A primeira modificação afetou apenas a classe App pois foi adicionado um novo carro (esportivo), assim como as modificações seguintes (utilitario, SUV, SUVFlex e Econo).
 
